@@ -1,0 +1,21 @@
+{
+  "name": "irichesadvisors",
+  "short_name": "Iriches",
+  "description": "Irichesadvisors: Elevating education and business standards in Multan, Pakistan. Our platform offers expert-led courses and corporate services, fostering success for individuals and businesses alike.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/https://i.postimg.cc/cJh1rHm5/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/https://i.postimg.cc/N0cLKZwL/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
